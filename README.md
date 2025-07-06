@@ -31,7 +31,7 @@ To create a dynamic sales dashboard in Microsoft Excel that highlights:
 
 ## 📸 Dashboard Preview
 
-![Excel Sales Dashboard](dashboard.jpg)
+![Excel Sales Dashboard](Dashboard.png)
 
 > *Visualizing top-performing and underperforming regions using Excel slicers and charts.*
 
@@ -42,7 +42,7 @@ To create a dynamic sales dashboard in Microsoft Excel that highlights:
 | File                | Description                                |
 |---------------------|--------------------------------------------|
 | `Project1.xlsm`     | Main Excel dashboard with slicers & charts |
-| `dashboard.jpg`     | Exported dashboard image for preview       |
+| `Dashboard.png`     | Exported dashboard image for preview       |
 | `README.md`         | Project documentation                      |
 
 ---
